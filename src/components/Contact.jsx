@@ -14,13 +14,6 @@ const Contact = () => {
       color: "from-blue-400 to-cyan-400"
     },
     {
-      name: "LinkedIn",
-      value: "linkedin.com/in/ajaykumarsurada",
-      href: "https://linkedin.com/in/ajaykumarsurada",
-      icon: <FaLinkedin className="w-6 h-6" />,
-      color: "from-blue-500 to-blue-600"
-    },
-    {
       name: "GitHub",
       value: "github.com/ajay-kumar2109",
       href: "https://github.com/ajay-kumar2109",
