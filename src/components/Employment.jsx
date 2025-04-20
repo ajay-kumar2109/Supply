@@ -7,10 +7,10 @@ const Employment = () => {
 
   const jobs = [
     {
-      title: "Business Data Analyst",
+      title: "Data Analyst / Supply Chain",
       company: "Connex",
-      period: "Sep 2023 – Apr 2024",
-      location: "Hamilton, ON, Canada",
+      period: "Sep 2023 – Aug 2024",
+      location: "Vancouver ,BC, Canada",
       type: "data",
       achievements: [
         "Automated inventory analysis systems using Python, reducing waste by 15% and improving profit margins.",
@@ -27,7 +27,7 @@ const Employment = () => {
       }
     },
     {
-      title: "Data Analyst",
+      title: "Supply Chain Analyst",
       company: "iLink Digital",
       period: "Feb 2022 – Dec 2022",
       location: "Chennai, India",
@@ -47,7 +47,7 @@ const Employment = () => {
       }
     },
     {
-      title: "Data Analyst",
+      title: "Business Data Analyst – Supply Chain – Consumer Goods Supplier",
       company: "Cognizant",
       period: "Nov 2019 – Jan 2022",
       location: "Chennai, India",
@@ -67,9 +67,9 @@ const Employment = () => {
       }
     },
     {
-      title: "Junior Data Analyst",
-      company: "Wipro",
-      period: "Dec 2018 – Sep 2019",
+      title: "Data Analyst",
+      company: "Essence",
+      period: "Aug 2019 – Jun 2020",
       location: "Bangalore, India",
       type: "data",
       achievements: [
