@@ -1,0 +1,32 @@
+module.exports = {
+  content: [
+    "./src/**/*.{js,jsx,ts,tsx}",
+  ],
+  safelist: [
+    'bg-blue-500',
+    'bg-blue-50',
+    'bg-blue-100',
+    'text-blue-500',
+    'text-blue-600',
+    'hover:bg-blue-50',
+    'bg-purple-500',
+    'bg-purple-50',
+    'text-purple-500',
+    'text-purple-600',
+    'hover:bg-purple-50',
+    'bg-green-500',
+    'bg-green-50',
+    'text-green-500',
+    'text-green-600',
+    'hover:bg-green-50',
+    'bg-yellow-500',
+    'bg-yellow-50',
+    'text-yellow-500',
+    'text-yellow-600',
+    'hover:bg-yellow-50',
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
